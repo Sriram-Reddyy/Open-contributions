@@ -1,5 +1,6 @@
-# Machine Learning Topics(Algorithms)
-Regression(Linear and Logistic)
+# Machine Learning Topics(Algorithms) 
+```
+Regression Models(Linear and Logistic Regression)
 Decision Trees
 Random Forests
 Ensmeble Leaning Methods
@@ -22,3 +23,18 @@ Transfer Learning
 Hyperparameter tuning
 Data Augmentation
 Optimization (adam, RMS, RMSProp)
+```
+#Others
+```
+Bias/Variance
+Regularization
+Evaluation of learning algos
+Learning Curves
+Error Analysis
+Ceiling Analysis
+```
+#Applications
+```
+Recommender Systems
+Large Scale Machine Learning 
+```
