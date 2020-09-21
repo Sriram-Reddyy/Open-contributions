@@ -24,16 +24,16 @@ Hyperparameter tuning
 Data Augmentation
 Optimization (adam, RMS, RMSProp)
 ```
-#Others
+# Others
 ```
 Bias/Variance
 Regularization
 Evaluation of learning algos
 Learning Curves
-Error Analysis
-Ceiling Analysis
+Feature Selection
+Feature Engineering
 ```
-#Applications
+# Applications
 ```
 Recommender Systems
 Large Scale Machine Learning 
