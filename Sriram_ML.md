@@ -32,6 +32,7 @@ Evaluation of learning algos
 Learning Curves
 Feature Selection
 Feature Engineering
+EDA
 ```
 # Applications
 ```
