@@ -1,4 +1,4 @@
-# Machine Learning Topics(Algorithms) 
+# Machine Learning Topics
 ```
 Regression Models(Linear and Logistic Regression)
 Decision Trees
