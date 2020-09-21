@@ -12,7 +12,7 @@ Pseudo Labelling
 Unsupervised and Semisupervised learning Algorithms
 ```
 # Deep Learning Topics
-``'
+```
 Convolution Neural Networks
 Recurrent Neural Networks
 Recurrent Neural Networks
